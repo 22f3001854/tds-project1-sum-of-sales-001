@@ -1,7 +1,7 @@
 # TDS Project 1 - sum-of-sales-001
 
 ## Description
-This project implements a sum-of-sales with Bootstrap and #total-sales application as part of TDS Project 1, Round 1.
+This project implements a Updated sum-of-sales with enhanced styling and footer application as part of TDS Project 1, Round 2.
 
 ## Features
 - Static HTML/JavaScript implementation
@@ -13,9 +13,9 @@ This project implements a sum-of-sales with Bootstrap and #total-sales applicati
 Simply open `index.html` in a web browser or visit the GitHub Pages URL.
 
 ## Generated on
-2025-10-16 03:22:17 UTC
+2025-10-16 03:25:31 UTC
 
 ## Task Details
 - Task: sum-of-sales-001
-- Brief: sum-of-sales with Bootstrap and #total-sales
-- Round: 1
+- Brief: Updated sum-of-sales with enhanced styling and footer
+- Round: 2
